@@ -6,6 +6,7 @@ print("11. Возведение в степень")
 
 
 def piwpow(base, power):
+    """Caoution! This is fucking recursion!"""
     return base if power == 1 else base * piwpow(base, power - 1)
 
 
