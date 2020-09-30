@@ -1,6 +1,6 @@
 <h1 align="center">Практические работы по программированию</h1>
-[![Size][size-badge]][size]
 
+## Таблица выполненных заданий
 <table style="width:100%;text-align:center">
     <tr>
         <th>Task</th>
@@ -73,8 +73,11 @@
         <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/13/C%2B%2B/13_prime_number.cpp">13_prime_number.cpp</a></td>
     </tr>
     <tr>
-        <td>14. Степень двойки/td>
+        <td>14. Степень двойки</td>
             <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/14/Python//14_power_of_two.py">14_power_of_two.py</a></td>
             <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/14/C%2B%2B/14_power_of_two.cpp">14_power_of_two.cpp</a></td>
     </tr>
 </table>
+
+## Контакты
+[Вконтакте](https://vk.com/id612837433)<br/>
