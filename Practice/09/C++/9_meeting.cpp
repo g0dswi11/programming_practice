@@ -8,7 +8,7 @@ int get_min(int h, int m)
 {
     if (h < 0 || h > 23 || m < 0 || m > 59)
     {
-        cout << "Неверное время. Повторите ввод." << endl;
+        cout << "Неверный формат времени!" << endl;
     }
     else
     {
@@ -21,7 +21,9 @@ int main()
     cout << "9. Встреча" << endl;
     string s1, s2;
 
+    cout << "Время первого человека:";
     cin >> s1;
+    cout << "Время второго человека:";
     cin >> s2;
 
     int t1 = stoi(s1.substr(0, s1.find(":")));
