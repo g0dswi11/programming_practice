@@ -1,6 +1,6 @@
 <h1 align="center">Практические работы по программированию</h1>
 
-<h3 align="center">Таблица выполненных заданий</h3?
+<h3 align="center">Таблица выполненных заданий</h3>
 <table style="width:100%;text-align:center">
     <tr>
         <th>Task</th>
