@@ -83,5 +83,6 @@
             <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/15/C%2B%2B/guess_the_number.cpp">guess_the_number.cpp</a></td>
     </tr>
 </table>
-
+<br>
 <h6 align="center">&copy; 2020, <a href="https://vk.com/id612837433">Vadim Trifonov</a> | <a href="https://github.com/g0dswi11/programming_practice/blob/master/LICENSE">MIT License</a></h6>
+<br>
