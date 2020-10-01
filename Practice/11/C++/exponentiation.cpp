@@ -6,8 +6,10 @@ using namespace std;
 
 float piwpow(float base, int power)
 /* Caoution! This is fucking recursion! */
-{
-    return power == 1 ? base : base * piwpow(base, power - 1);
+{   if (power == 0)
+        return 1;
+    else
+        return power == 1 ? base : base * piwpow(base, power - 1);
 }
 
 int main()

@@ -9,7 +9,7 @@ bool validate(const float a, const char c, const float b)
 {
     if (c != '+' && c != '-' && c != '*' && c != '/')
     {
-        cout << "Операция не поддерживается!" << endl;
+        cout << "[Ошибка] Операция не поддерживается!" << endl;
         return false;
     }
     if (cin.fail())
@@ -35,7 +35,7 @@ float calc(const float a, const char c, const float b)
     case '/':
         return a / b;
     default:
-        throw logic_error("Операция не поддерживается!");
+        throw logic_error("[Ошибка] Операция не поддерживается!");
     }
 }
 
@@ -55,7 +55,7 @@ int main()
         }
         else
         {
-            cout << "Ошибка ввода: " << endl;
+            cout << "[Ошибка] Неверный ввод " << endl;
             continue;
         }
     }
