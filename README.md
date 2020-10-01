@@ -77,6 +77,11 @@
             <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/14/Python//power_of_two.py">power_of_two.py</a></td>
             <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/14/C%2B%2B/power_of_two.cpp">power_of_two.cpp</a></td>
     </tr>
+    <tr>
+        <td>15. Угадай число</td>
+            <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/15/Python//guess_the_number.py">guess_the_number.py</a></td>
+            <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/15/C%2B%2B/guess_the_number.cpp">guess_the_number.cpp</a></td>
+    </tr>
 </table>
 
 ## Контакты
