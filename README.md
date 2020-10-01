@@ -84,5 +84,4 @@
     </tr>
 </table>
 
-## Контакты
-:doughnut: [Вконтакте](https://vk.com/id612837433)<br/>
+<h6 align="center">&copy; 2020, <a href="https://vk.com/id612837433">Vadim Trifonov</a> | <a href="https://github.com/g0dswi11/programming_practice/blob/master/LICENSE">MIT License</a></h6>
