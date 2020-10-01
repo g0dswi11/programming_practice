@@ -85,4 +85,4 @@
 </table>
 
 ## Контакты
-[Вконтакте](https://vk.com/id612837433)<br/>
+:doughnut: [Вконтакте](https://vk.com/id612837433)<br/>
