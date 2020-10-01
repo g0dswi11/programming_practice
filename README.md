@@ -24,8 +24,8 @@
     </tr>
     <tr>
         <td>4. Обмен значениями</td>
-        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/04/Python//4_exchange of values.py">4_exchange of values.py</a></td>
-        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/04/C%2B%2B/4_exchange of values.cpp">4_exchange of values.cpp</a></td>
+        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/04/Python//4_exchange_of_values.py">4_exchange_of_values.py</a></td>
+        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/04/C%2B%2B/4_exchange_of_values.cpp">4_exchange_of_values.cpp</a></td>
     </tr>
     <tr>
         <td>5. Падение объекта</td>
@@ -44,8 +44,8 @@
     </tr>
     <tr>
         <td>8. Калькулятор</td>
-        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/08/Python//8_area_of_a_triangle.py">8_area_of_a_triangle.py</a></td>
-        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/08/C%2B%2B/8_area_of_a_triangle.cpp">8_area_of_a_triangle.cpp</a></td>
+        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/08/Python//8_calculator.py">8_calculator.py</a></td>
+        <td><a href="https://github.com/g0dswi11/programming_practice/blob/master/Practice/08/C%2B%2B/8_calculator.cpp">8_calculator.cpp</a></td>
     </tr>
     <tr>
         <td>9. Встреча</td>
