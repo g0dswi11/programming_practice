@@ -85,4 +85,6 @@
 </table>
 
 ## Контакты
-[Вконтакте](https://vk.com/id612837433)<br/>
+:cookie: [Вконтакте](https://vk.com/id612837433)<br/>
+
+<h6 align="center">&copy; 2020, Vadim Trifonov</h6>
