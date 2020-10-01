@@ -34,7 +34,7 @@ def main():
     print("15. Угадай число")
     inGame = True
     while inGame:
-        a = game()
+        game()
         inGame = restart()
 
 
